@@ -1,6 +1,8 @@
 # normal-distribution
 This code was straight up ripped off this guy:
 
+http://www.math.ucla.edu/~tom/distributions/normal.html
+
 
 with minor modifications so that it is node compatible.
 
