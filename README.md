@@ -6,7 +6,7 @@ http://www.math.ucla.edu/~tom/distributions/normal.html
 
 with minor modifications so that it is node compatible.
 
-#Standard-Deviation
+# Standard-Deviation
 
 Just a cli wrapper for the mathjs npm module for stadard dev:
 
